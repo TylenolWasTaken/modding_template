@@ -1,7 +1,11 @@
 ![License](https://img.shields.io/badge/license-LGPL_2.1-blue)
 
 # modding template
-Template Branch kept up to date!
+Template Branch kept up to date! 
+
+## Usage && Info
+This repository contains a template branch and an example mod in the main branch. 
+You can template off of the template branch and use the references in the main branch to figure out parts of the API that may be hard to understand.
 
 ## ToolChain
 Optional but suggested.
