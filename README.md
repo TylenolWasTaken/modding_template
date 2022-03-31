@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-LGPL2.1-blue)
+![License](https://img.shields.io/badge/license-LGPL_2.1-blue)
 
 # modding template
 Template Branch kept up to date!
